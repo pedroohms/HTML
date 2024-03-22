@@ -1,0 +1,23 @@
+/*Geral*/
+body {
+    font-family: sans-serif;
+}
+
+/*Estilo aplicado nos elementos pelo id=divparágrafos*/
+#div-parágrafos {
+    color: aliceblue;
+    background-color: rgb(93, 93, 145);
+}
+
+/*Estilo aplicado nos elementos pela classe .longo*/
+.longo {
+    background-color: pink;
+}
+
+/*Estilo aplicado no elemento pelo id=p1*/
+#p1 {
+    color: brown;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
